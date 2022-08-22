@@ -185,7 +185,7 @@ button:active {
     background: none;
     padding: 0;
   }
-/* 
+
   .main input {
     width: 230px;
     border: none;
@@ -200,15 +200,15 @@ button:active {
     padding-right: 70px;
     padding-left: 10px;
     text-overflow: ellipsis;
-  } */
-/* 
+  }
+
   .main input:disabled {
     background: white;
     box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
-    color: black;
+    color: black;ed
     font-size: 18px;
     font-family: muliBold;
-  } */
+  }
 
   button {
     width: 100%;
