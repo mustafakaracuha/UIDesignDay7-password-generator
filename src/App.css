@@ -189,9 +189,9 @@ button:active {
   .main input {
     width: 230px;
     padding: 0;
-    background: #ffffff;
+    background: #ffffff !important;
     color: black;
-    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px !important;
     text-align: start;
     padding-right: 70px;
     padding-left: 10px;
