@@ -205,7 +205,7 @@ button:active {
   .main input:disabled {
     background: white;
     box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
-    color: black;ed
+    color: black;
     font-size: 18px;
     font-family: muliBold;
   }
