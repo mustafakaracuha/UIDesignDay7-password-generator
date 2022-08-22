@@ -188,15 +188,18 @@ button:active {
 
   .main input {
     width: 230px;
+    border: none;
     padding: 0;
-    background: #ffffff !important;
+    font-size: 16px;
+    background: white;
+    font-family: muliBold;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    border-radius: 10px;
     color: black;
-    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px !important;
-    text-align: start;
+    text-align: center;
     padding-right: 70px;
     padding-left: 10px;
-    font-family: muli;
-    font-size: 16px;
+    text-overflow: ellipsis;
   }
 
   button {
