@@ -34,7 +34,7 @@ export default function Generator() {
       <div className="box">
         <h1 className="title">Password Generator</h1>
         <div className="main">
-          <input title={password} type="values" value={password} disabled />
+          <input className="generateInp" title={password} type="values" value={password} disabled />
           <button title="Copy" className="copy" onClick={passwordCopy}>
             <FontAwesomeIcon icon={faClipboard} />
           </button>

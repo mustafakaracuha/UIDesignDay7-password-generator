@@ -78,7 +78,7 @@ body {
   border-bottom: 1px solid rgb(213, 213, 213);
 }
 
-.main input {
+.main .generateInp {
   width: 80%;
   height: 60px;
   border: none;
@@ -186,7 +186,7 @@ button:active {
     padding: 0;
   }
 
-  .main input {
+  .main .generateInp {
     width: 230px;
     border: none;
     padding: 0;
@@ -200,14 +200,6 @@ button:active {
     padding-right: 70px;
     padding-left: 10px;
     text-overflow: ellipsis;
-  }
-
-  .main input:disabled {
-    background: white;
-    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
-    color: black;
-    font-size: 18px;
-    font-family: muliBold;
   }
 
   button {
