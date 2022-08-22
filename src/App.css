@@ -237,5 +237,19 @@ button:active {
 }
 
 @media screen and (max-width: 480px) {
-  
+  .main input {
+    width: 230px;
+    border: none;
+    padding: 0;
+    font-size: 16px;
+    background: white;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    font-family: muliBold;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    padding-right: 70px;
+    padding-left: 10px;
+    text-overflow: ellipsis;
+  }
 }
