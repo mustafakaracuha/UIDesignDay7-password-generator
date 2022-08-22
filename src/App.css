@@ -179,29 +179,29 @@ button:active {
 
 @media screen and (max-width: 992px) {
   .main {
-   width: 310px;
-  box-shadow: none;
-  background: none;
-  padding: 0;
+    width: 310px;
+    box-shadow: none;
+    background: none;
+    padding: 0;
   }
 
   .main input {
-  width: 230px;
-  padding: 0;
-  text-align: start;
-  padding-right: 70px;
-  padding-left: 10px;
-  font-family: muli;
-  font-size: 16px;
+    width: 230px;
+    padding: 0;
+    text-align: start;
+    padding-right: 70px;
+    padding-left: 10px;
+    font-family: muli;
+    font-size: 16px;
   }
-  .main .copy { 
+  .main .copy {
     right: 7px;
     top: -29px;
   }
 
-  .box .title { 
-  font-size: 21px;
-  margin-top: 50%;
+  .box .title {
+    font-size: 21px;
+    margin-top: 50%;
   }
   .designBy p {
     width: 100% !important;
@@ -212,8 +212,6 @@ button:active {
     font-family: muli;
     font-size: 16px !important;
   }
-
-
 }
 
 @media screen and (max-width: 480px) {
