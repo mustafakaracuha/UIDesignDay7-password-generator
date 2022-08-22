@@ -212,7 +212,7 @@ button:active {
     cursor: pointer;
     transition: 0.3s;
   }
-  
+
   .main .copy {
     right: 7px;
     top: -29px;
@@ -234,4 +234,5 @@ button:active {
 }
 
 @media screen and (max-width: 480px) {
+  
 }
