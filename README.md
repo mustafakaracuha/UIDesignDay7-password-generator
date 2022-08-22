@@ -7,7 +7,7 @@
 
 ### Live
 
-🔗 https://ui-design-day6-passwordgenerator.vercel.app/
+🔗 https://ui-design-day7-passwordgenerator.vercel.app/
 
 ### Installation
 
