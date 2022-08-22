@@ -188,7 +188,8 @@ button:active {
   .main input {
     width: 230px;
     padding: 0;
-    text-align: start;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+     text-align: start;
     padding-right: 70px;
     padding-left: 10px;
     font-family: muli;
