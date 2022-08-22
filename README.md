@@ -20,4 +20,4 @@
 
 ### Screenshot
 
-<img align="center"  width="800" width="800"  src="https://github.com/mustafakaracuha/UIDesignDay7-password-generator/blob/master/src/assets/screenshot/app.gif" alt="muskaracuha" />
+<img align="center"  width="500" width="500"  src="https://github.com/mustafakaracuha/UIDesignDay7-password-generator/blob/master/src/assets/screenshot/app.gif" alt="muskaracuha" />
