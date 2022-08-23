@@ -3,6 +3,7 @@ import Slider from "@mui/material/Slider";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faClipboard } from "@fortawesome/free-solid-svg-icons";
 import toast from "react-hot-toast";
+import $ from "jquery";
 
 export default function Generator() {
   const [length, setLength] = useState(5);
@@ -26,6 +27,12 @@ export default function Generator() {
     for (let i = 0; i < length; i++) {
       let num = Math.floor(Math.random() * chars.length);
       setPassword((randomstring += chars.substring(num, num + 1)));
+    }
+     if(length >= 20) {
+      $( ".generateInp" ).css( "font-size", "17px" );
+    }
+     else {
+      $( ".generateInp" ).css( "font-size", "20px" );
     }
   };
 

@@ -92,7 +92,7 @@ body {
   margin-top: 5px;
   padding-right: 70px;
   padding-left: 15px;
-  text-overflow: ellipsis;
+  overflow-y: auto;
 }
 
 .main .copy {
