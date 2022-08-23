@@ -199,7 +199,7 @@ button:active {
     text-align: center;
     padding-right: 70px;
     padding-left: 10px;
-    text-overflow: ellipsis;
+    overflow-y: auto;
   }
 
   button {
